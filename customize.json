@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "Suhani",
+  "greetingText": "Your name is pretty cool btw!",
+  "wishText": "May you always stay this HAPPYYY! ;)",
+  "imagePath": "img/suhani.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! May your day be gr... blah blah",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But that is what everyone does :/",
+  "text4": "I realised, I needed to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You said you liked sweet gestures, right?",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click here, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
